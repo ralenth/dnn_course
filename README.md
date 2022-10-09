@@ -2,7 +2,7 @@
 Solutions for Deep Neural Networks course at University of Warsaw, 2021.
 
 ## repo structure
-Each jupyter notebook corresponds to different homework.
+Each jupyter notebook corresponds to different homework. Every homework received the maximum number of points.
 
 ## tasks
 1. Verifying impact of data noise level with simple MLP architecture for
